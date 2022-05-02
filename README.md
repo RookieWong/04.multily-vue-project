@@ -1,2 +1,2 @@
 # mutily-vue-project
-mutily vue project study
+multily vue project study
